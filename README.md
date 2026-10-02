@@ -12,7 +12,7 @@ I have a soft spot for React and modern JS frameworks in general, I'm currently 
 
 Slowly recovering from a *too-many-private-repos* syndrome.
 
-## How I shape the world
+## What I use to code (and more)
 ### Languages
 [![HTML, CSS, JavaScript, TypeScript, PHP, Python icons](https://skillicons.dev/icons?i=html,css,js,ts,php,py)](https://skillicons.dev)
 > I refuse to write anything without my ~~lawyer~~ **emmet**
